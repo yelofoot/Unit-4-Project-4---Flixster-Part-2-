@@ -1,23 +1,23 @@
 # Unit-4-Project-4---Flixster-Part-2-
 Unit 4 - updated film app project
 
-# Android Project 4 - *Name of App Here*
+# Android Project 4 - Filmster
 
-Submitted by: **Your Name Here**
+Submitted by: Tyler Austin
 
-**Name of your app** is a movie browsing app that allows users to browse ... [TODO] 
+Filmster is a movie browsing app that allows users to browse trending movies and shows.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
-- [] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
-- [ ] **Use Glide to load and display at least one image per entry**
-- [ ] **Click on an entry to view specific details about that entry using Intents**
+- [X] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: `movie/popular: & tv/popular`
+- [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [X] **Use Glide to load and display at least one image per entry**
+- [X] **Click on an entry to view specific details about that entry using Intents**
 
 The following **optional** features are implemented:
 
@@ -28,6 +28,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
+- [ ] updated banner color
 
 ## Video Walkthrough
 
@@ -35,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+
 GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
